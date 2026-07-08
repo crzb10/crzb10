@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cristiano! I'm from Brazil, I´m Already 16 years old.
+- 👋 Hi, I’m Cristiano! I'm from Brazil.
 - But you can call me Cris!
 - Im doing high school at the moment, too...
 - 👀 I’m interested to Be a Front End developer.
